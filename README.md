@@ -4,9 +4,9 @@
 ## Project Proposal Template:
 cvbbbc
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Section			   	      : Lithium
+### Group Members			    : DEVELOS, Elijah Andrei; ESPINOSA, Gwen Anne; OLIVA, Abien Bernard C.
+### Date (Proposal Date)  : Nov 13, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
