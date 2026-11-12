@@ -17,7 +17,7 @@ This project helps organize student requirements using simpler interfaces and co
 
 This project contains two major classes as reference to the object that will be usedd: "Subject" and "ILA". Each class has their unique set of attributes.
 
-THe following are each classes' methods and attributes:
+The following are each classes' methods and attributes:
 
 ### Subject 
 Attributes:
