@@ -14,7 +14,7 @@ fdfhdfhfshsdhfhhtrthdfh
 - Include the description as well of your target demographics as the user of your application. 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-This project helps organize student requirements using simpler interfaces and controls, being a great alternative to other learning management systems (LMSs), such as Google Sheets, Notion, Calendars, and other similar applications. 
+This project helps organize student requirements using simpler interfaces and controls, being a great alternative to other learning management systems (LMSs), such as Google Sheets, Notion, Calendars, and other similar applications. With the use of this program, the user will be able to effectively track, add, remove, and monitor independent learning activity (ILA) deadlines, project deadlines, and important dates such as in-class activities without the inclusion of exaggerated interfaces. 
 
 This project contains two major classes as reference to the object that will be usedd: "Subject" and "ILA". Each class has their unique set of attributes.
 
@@ -31,6 +31,14 @@ def display_details(); prints all the information, or the attributes of the clas
 def assign_req(); assigns a specific requirement to the subject
 def find_req(); finds a specific requirement and displays its information
 def remove_req(); removes a specific requirement from the roster of a subject
+
+### ILA
+Attributes:
+From the subject class, it will inherit self.subject_name, with its default being "Subject" in the event that the user does not assign the requirement to the subject.
+self.due_date; a string data in the form of MM/DD/YYYY that contains the required submission date of the particular activity
+self.desciption; a string data that contains necessary information and description about the ILA
+self.requirement_ID;
+
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
