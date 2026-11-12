@@ -22,21 +22,32 @@ THe following are each classes' methods and attributes:
 
 ### Subject 
 Attributes:
+
 self.subject_name; a string variable that contains the name of the involved subject
+
 self.noOfUnits; an integer variable that contains the units the subject carries in the total general weighted average (GWA) 
+
 self.requirement_roster; a list that contains the list of requirements of the particular subject
 
 Methods:
+
 def display_details(); prints all the information, or the attributes of the class Subject
+
 def assign_req(); assigns a specific requirement to the subject
+
 def find_req(); finds a specific requirement and displays its information
+
 def remove_req(); removes a specific requirement from the roster of a subject
 
 ### ILA
 Attributes:
+
 From the subject class, it will inherit self.subject_name, with its default being "Subject" in the event that the user does not assign the requirement to the subject.
+
 self.due_date; a string data in the form of MM/DD/YYYY that contains the required submission date of the particular activity
+
 self.desciption; a string data that contains necessary information and description about the ILA
+
 self.requirement_ID;
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
