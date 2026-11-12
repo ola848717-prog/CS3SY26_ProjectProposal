@@ -6,7 +6,6 @@
 ### Section			   	      : Lithium
 ### Group Members			    : DEVELOS, Elijah Andrei; ESPINOSA, Gwen Anne; OLIVA, Abien Bernard C.
 ### Date (Proposal Date)  : Nov 13, 2026
-fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
@@ -45,6 +44,8 @@ Attributes:
 From the subject class, it will inherit self.subject_name, with its default being "Subject" in the event that the user does not assign the requirement to the subject.
 
 self.due_date; a string data in the form of MM/DD/YYYY that contains the required submission date of the particular activity
+
+self.progress; a string text that can be in the following choices ["Have not started", "Started", "Finished but not yet submited", or "Submitted"] which indicates the user's progress on the activityuhh
 
 self.desciption; a string data that contains necessary information and description about the ILA
 
