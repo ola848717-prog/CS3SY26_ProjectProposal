@@ -50,6 +50,9 @@ self.desciption; a string data that contains necessary information and descripti
 
 self.requirement_ID;
 
+Methods:
+def display_details(); prints all the information, or the attributes of the class ILA
+
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
