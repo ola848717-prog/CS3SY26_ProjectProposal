@@ -54,6 +54,9 @@ self.requirement_ID;
 Methods:
 def display_details(); prints all the information, or the attributes of the class ILA
 
+UML Diagram
+
+https://lucid.app/lucidchart/eb6f72d8-f1fd-4af2-b442-471e45298086/edit?viewport_loc=-207%2C133%2C1227%2C948%2C0_0&invitationId=inv_5ee8d84d-2623-4fd6-8a65-5c4d972658c6
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
