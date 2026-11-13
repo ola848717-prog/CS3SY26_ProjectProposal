@@ -62,8 +62,9 @@ def display_details(); prints all the information, or the attributes of the clas
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+The goal of this project is for the user to effecitively use this application similar to learning management systems, such as Google Classroom and Notion to track deadlines such as projects, ILAs, and other assessments, while using a minimalist interface to reduce complicated controls. 
+
+- Objective 1: To create a system of organizing assignments that is editable (add, remove, edit)
+- Objective 2: To create a minimalist interface and simpler controls
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
