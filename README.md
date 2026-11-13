@@ -45,7 +45,7 @@ From the subject class, it will inherit self.subject_name, with its default bein
 
 self.due_date; a string data in the form of MM/DD/YYYY that contains the required submission date of the particular activity
 
-self.progress; a string text that can be in the following choices ["Have not started", "Started", "Finished but not yet submited", or "Submitted"] which indicates the user's progress on the activityuhh
+self.progress; a string text that can be in the following choices ["Have not started", "Started", "Finished but not yet submited", or "Submitted"] which indicates the user's progress on the activity
 
 self.desciption; a string data that contains necessary information and description about the ILA
 
